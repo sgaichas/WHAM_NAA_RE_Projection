@@ -15,3 +15,7 @@ models/
 .RData
 .Ruserdata
 .Rproj.user
+.posit/assistant
+
+# mac stuff
+.DS_Store
